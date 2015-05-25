@@ -1,5 +1,9 @@
 set fish_user_paths /usr/local/bin /usr/local/sbin $fish_user_paths
 
+# go
+set fish_user_paths $fish_user_paths ~/.go/bin
+set -gx GOPATH ~/.go
+
 set -gx ARCHFLAGS -arch x86_64
 set -gx MANWIDTH 80
 set -gx EDITOR nvim
