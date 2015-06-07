@@ -1,5 +1,7 @@
 set fish_user_paths /usr/local/bin /usr/local/sbin $fish_user_paths
 
+set -gx INFOPATH /usr/local/share/info /usr/share/info
+
 # go
 set fish_user_paths $fish_user_paths ~/.go/bin
 set -gx GOPATH ~/.go
