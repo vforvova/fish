@@ -7,4 +7,5 @@ abbr -a gl git pull
 abbr -a gp git push
 abbr -a gm git merge
 abbr -a gs git status
+abbr -a gb git branch
 
