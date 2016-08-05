@@ -4,25 +4,25 @@
 
 ### Git
 
--   __g__ - `git`
--   __ga__ - `git add`
--   __gc__ - `git commit -m`
--   __gco__ - `git checkout`
--   __gd__ - `git diff`
--   __gl__ - `git pull`
--   __gp__ - `git push`
--   __gm__ - `git merge`
--   __gs__ - `git status`
--   __gb__ - `git branch`
+-   `g` for `git`
+-   `ga` for `git add`
+-   `gc` for `git commit -m`
+-   `gco` for `git checkout`
+-   `gd` for `git diff`
+-   `gl` for `git pull`
+-   `gp` for `git push`
+-   `gm` for `git merge`
+-   `gs` for `git status`
+-   `gb` for `git branch`
 
 
 ### Neovim
 
--   __v__ - `nvim`
+-   `v` for `nvim`
 
 
 ### Bundler
 
--   __b__ - `bundle`
--   __bx__ - `bundle exec`
+-   `b` for `bundle`
+-   `bx` for `bundle exec`
 
