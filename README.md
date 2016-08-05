@@ -14,3 +14,15 @@
 -   __gm__ - `git merge`
 -   __gs__ - `git status`
 -   __gb__ - `git branch`
+
+
+### Neovim
+
+-   __v__ - `nvim`
+
+
+### Bundler
+
+-   __b__ - `bundle`
+-   __bx__ - `bundle exec`
+
