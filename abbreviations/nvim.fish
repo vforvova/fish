@@ -1,1 +1,0 @@
-abbr -a v nvim
