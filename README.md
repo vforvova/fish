@@ -16,11 +16,6 @@
 -   `gb` for `git branch`
 
 
-### Neovim
-
--   `v` for `nvim`
-
-
 ### Bundler
 
 -   `b` for `bundle`
